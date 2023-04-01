@@ -10,3 +10,4 @@ function numberToString(num) {
 //eyejabb: `I think the setting a variable and add a Number.toString() method to it has to do with 
 //          function scope, if you set the parameter as a hard value for the .toString method.
 
+//
