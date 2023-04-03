@@ -18,3 +18,6 @@ function SeriesSum(n) {
     return result.toFixed(2);
     //Remember that method.toFixed(n) is equal to the number of decimal places.
   };
+
+
+  //
