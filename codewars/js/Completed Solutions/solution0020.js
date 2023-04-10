@@ -22,3 +22,5 @@ function strCount(str, letter){
   return count;
   
 }
+
+//
