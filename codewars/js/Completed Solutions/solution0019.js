@@ -19,3 +19,5 @@ function rentalCarCost(rentTime){
     return carRental
   }
 }
+
+//
