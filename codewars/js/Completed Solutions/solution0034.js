@@ -10,4 +10,4 @@ function betterThanAverage(classPoints, yourPoints) {
         return true;
     }
   }
-//
+// 
