@@ -4,14 +4,16 @@
 // Numbers may be positive or negative, integers or floats.
 // Floats with decimal part non equal to zero are considered UNeven for this kata.
 
-function testEven(n) {
-//start with conditional introducing argument 
-    if (n % 2 ===  0){
-        return true;
-    }else{
-        return false;
-    }
-}
+// function testEven(n) {
+// //start with conditional introducing argument 
+//     if (n % 2 ===  0){
+//         return true;
+//     }else{
+//         return false;
+//     }
+// }
+
+
 //check whether argument using modulus to see if divisable by 2
 //if conditional is true, return true
 
@@ -22,3 +24,5 @@ function testEven(n) {
 // testEven(5); return should be false
 // testEven(-4); return should be true
 //
+
+const testEven = n => n % 2 === 0 ? true : false;
