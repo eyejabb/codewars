@@ -16,7 +16,7 @@ class BankAccount {
   
       this.getBalance = () => {
         return balance;
-      };
+      };  
     }
   }
   
